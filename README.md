@@ -5,6 +5,7 @@ Skills I've built for Claude, mostly to take the busywork out of project managem
 | Skill | What it does |
 |---|---|
 | [Daily Sprint Digest](daily-sprint-digest/) | Turns a day of Jira and GitHub activity into an end-of-day sprint readout ready to paste into Slack, and flags work that's stalled, slow, or waiting on a stakeholder. |
+| [Audience Check](audience-check/) | Reviews a draft against a profile of the person or team who'll read it, flags anything likely to confuse them or cause friction, and returns a revised draft. |
 
 ## Using a skill
 
